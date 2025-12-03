@@ -1,3 +1,3 @@
 # eva-safety
 
-Initial scaffold for EVA module: eva-safety.
+Initial scaffold for safety filters and evaluation harness.
